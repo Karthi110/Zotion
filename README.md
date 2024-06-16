@@ -8,11 +8,11 @@
 - File upload
 - File deletion
 - File replacement
-Icons for each document (changes in real-time) 🌠
-Expandable sidebar ➡️🔀⬅️
-Landing page 🛬
-Cover image of each document 🖼️
-Recover deleted files 🔄📄
+- Icons for each document (changes in real-time) 🌠
+- Expandable sidebar ➡️🔀⬅️
+- Landing page 🛬
+- Cover image of each document 🖼️
+- Recover deleted files 🔄📄
 
 ## Getting Started
 
